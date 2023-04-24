@@ -1,0 +1,64 @@
+h1 {
+    font-family: 'Sail', cursive;
+    font-size: 80px;
+}
+
+a, p {
+    font-family: 'Dongle', sans-serif;
+    font-size: 40px;
+}
+
+.webTitle {
+    text-align: center;
+}
+
+.navBar{
+    margin-left: 5px;
+    text-align: center;
+    margin-bottom: 40px;
+
+    }
+    
+.navBar a{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: none;
+    margin-right: 50px;
+    color: #6096B4;
+    }
+
+.mainPic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+.mainPic3{
+    float: right;
+}
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+  .introText{
+    background-color: #93BFCF;
+    box-shadow: 0 3px 3px #c0aca8, 0 4px 4px #9a9593, 0 5px 5px #d2bbb2, 0 10px 10px #a39a9a;
+    padding: 10px 10px;
+    color:white;
+    text-align: center;
+    font-size: 40px;
+    margin:  100px 200px;
+  }
+
+  .logo{
+    float:left;
+    position: relative; top: -70px;
+}
